@@ -73,9 +73,7 @@ text-align: center;</string>
     <property name="styleSheet">
      <string notr="true">background-color:rgba(16, 30, 41, 240);
 color:rgba(255, 255, 255,0.5);
-QHeaderView::section{
-background-color: rgba(16, 30, 41, 240);
-}
+font-size: 15px;
 </string>
     </property>
     <property name="sortingEnabled">

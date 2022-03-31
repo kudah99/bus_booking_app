@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>504</width>
-    <height>615</height>
+    <height>715</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -45,7 +45,7 @@ background-color:rgba(2, 65, 118, 200);
      <x>30</x>
      <y>10</y>
      <width>411</width>
-     <height>611</height>
+     <height>681</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -237,6 +237,25 @@ font-size: 16px</string>
    </property>
    <property name="text">
     <string>submit</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="submitButton_2">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>630</y>
+     <width>251</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(225,0,0);
+border-radius:8px;
+color: rgba(255,255,255,0.7);
+font-size: 16px</string>
+   </property>
+   <property name="text">
+    <string>close</string>
    </property>
   </widget>
  </widget>
